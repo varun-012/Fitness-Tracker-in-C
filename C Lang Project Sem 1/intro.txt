@@ -1,0 +1,15 @@
+Hello , Welcome to Fitness Tracking System
+This Program is the one stop solution for all your Fitness Goals.
+
+There are six different options provided for the user :
+1) Here you can find the information about this Program
+2) Here you can calculate your Body Mass Index(BMI) and know about your current situation
+3) Here you can calculate your present Maintenance Calories according to your goal
+4) Here you can know how to calculate the calories present in a Food items which you are consuming on daily basis
+5) Here you can know about all the macronutrients, micronutrients, supplements essential for you to achieve your goal
+6) Here you can know about the various types of physical activities that you can perform to achieve your goal
+ 
+We wish you All the very best on your Fitness Journey.
+
+
+
